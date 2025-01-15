@@ -24,10 +24,10 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <div>
-    <a href="https://www.loom.com/share/3df1299fff8041539ffb8a8e35bed2dc">
+    <a href="https://www.loom.com/share/8bb4e9118c904d3a836e9e796e3edaa5">
     </a>
-    <a href="https://www.loom.com/share/3df1299fff8041539ffb8a8e35bed2dc">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3df1299fff8041539ffb8a8e35bed2dc-6276bab0f705e898-full-play.gif">
+    <a href="https://www.loom.com/share/8bb4e9118c904d3a836e9e796e3edaa5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8bb4e9118c904d3a836e9e796e3edaa5-cf819cbffc77ff5a-full-play.gif">
     </a>
   </div>
 
